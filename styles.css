@@ -16,6 +16,7 @@ body{
 }
 .book-library h1{
 	text-align:center;
+	padding:10px;
 	background-color:#f8f8f8;	
 }
 .book-library .book img{
@@ -24,7 +25,6 @@ body{
 .book-library .book{
 	margin-top:10px;
 	background-color:#f8f8f8;
-/* 	width:400px; */
 	padding:10px;
 }
 .book-library .book .book-price{
